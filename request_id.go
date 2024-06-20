@@ -3,7 +3,7 @@ package bunrouterslog
 import (
 	"context"
 
-	"go.jetpack.io/typeid"
+	"go.jetify.com/typeid"
 )
 
 type requestIdKey struct{}
